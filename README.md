@@ -1,16 +1,24 @@
-# requeil_de_cantique
+# 📖 Application de Cantiques d'Église (Flutter + SQLite)
 
-A new Flutter project.
+Une application mobile Flutter permettant d’enregistrer, consulter, rechercher et marquer comme favoris les cantiques d'une église. Elle utilise une base de données SQLite locale.
 
-## Getting Started
+## 🚀 Fonctionnalités
 
-This project is a starting point for a Flutter application.
+- ✅ Page d’accueil avec la liste des cantiques
+- 🔍 Recherche par titre de cantique
+- 📖 Lecture complète d’un cantique
+- ⭐ Ajout/Suppression de favoris
+- 💾 Stockage local avec SQLite
+- 🎬 Page d’introduction (Splash Screen)
+- 🎨 Interface simple, moderne et responsive
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠️ Technologies
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **Flutter** (framework UI multi-plateforme)
+- **Dart** (langage principal)
+- **SQLite** (stockage local)
+- **Path Provider** (gestion des fichiers)
+- **Material Design**
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Encours ....
+
